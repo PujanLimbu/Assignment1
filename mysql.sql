@@ -16,6 +16,8 @@ INSERT INTO employee VALUES ('5','Kps','oli','Engineer','canada');
 INSERT INTO employee VALUES ('6','hero','rai','doctor','canada');
 INSERT INTO employee VALUES ('7','heroine','rai','doctor','canada');
 INSERT INTO employee VALUES ('8','Vahab','Shalchain','doctor','canada');
+INSERT INTO employee VALUES ('9','Vahabi','Shalchain','doctor','canada');
+
 
 SELECT * FROM employee;
 
